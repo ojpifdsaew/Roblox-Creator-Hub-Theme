@@ -3,7 +3,7 @@ This userstyle emulates the look of the Roblox Creator Hub for the main Roblox s
 
 # Installation
 1. Install Stylus (extension)
-2. Go to the userstyles.world style
+2. Go to the [userstyles.world style](https://example.com/)
 3. Click "Install"
 4. Go to Roblox and enable the style from the extensions tab
 
