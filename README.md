@@ -10,6 +10,7 @@ This userstyle emulates the look of the Roblox Creator Hub for the main Roblox s
 # Bugs/Issues
 Report any bugs to the issues section.
 
-![image](https://github.com/ojpifdsaew/Roblox-Creator-Hub-Theme/assets/68922095/bf79c821-0f75-45d9-aaf8-e5b01f0a9294)
-![image](https://github.com/ojpifdsaew/Roblox-Creator-Hub-Theme/assets/68922095/60485a9c-25af-443c-8874-97c0e93a928f)
+![Screenshot 2023-12-25 011019](https://github.com/ojpifdsaew/Roblox-Creator-Hub-Theme/assets/68922095/bb822b86-27d6-4cc1-8c5a-51added51975)
+![Screenshot 2023-12-25 011029](https://github.com/ojpifdsaew/Roblox-Creator-Hub-Theme/assets/68922095/d1a6009a-8cff-4a99-9eb4-53bd8f8da503)
+
 
